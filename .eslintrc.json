@@ -1,0 +1,12 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "react-hooks/exhaustive-deps": "warn",
+    "object-curly-newline": [
+      "error",
+      { "consistent": true, "minProperties": 7 }
+    ],
+    "no-alert": "error",
+    "no-console": "warn"
+  }
+}
