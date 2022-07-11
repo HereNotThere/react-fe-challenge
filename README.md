@@ -3,8 +3,8 @@
 ## Description
 
 This project is designed to test your knowledge of front-end web technologies
-and assess your ability to create front-​end UI products with attention to
-details, standards, and user-experience.
+and assess your ability to create front-end UI products with attention to
+details, standards and user-experience.
 
 ## Assignment
 
@@ -14,6 +14,7 @@ calendar in React like the screenshot below.
 You should start by rendering a single month view of a calendar for the current month.
 
 ![calendar](https://raw.githubusercontent.com/HereNotThere/react-fe-challenge/main/src/assets/layout.png)
+
 
 ## Mandatory features
 
@@ -34,11 +35,14 @@ You should start by rendering a single month view of a calendar for the current 
 - Enable reminders with start - end date spanning across several days.
 - Unit test the functionality: *Ability to add "*reminders*" (max. 30 characters) for a day and time specified by the user. Also, include a description.*
 
+## Deliverables
+
+A .zip file containing the full source-code of the assignment based on the current repo. Please exclude `node_modules`.
+
 ## Considerations
 
-- Show us in the Readme all relevant information about your project.
 - The project is completely focused on Front-end. Ignore the Back-end.
-- Target modern browsers, < 2 years backwards compatibility.
+- Target modern browsers only
 - Create your Calendar using the route `/calendar`
 - Feel free to use small helper libraries for Date/Time handling.
 - **You must create the calendar component yourself**. Do not user calendar libraries like FullCalendar or Bootstrap Calendar.
