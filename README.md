@@ -25,14 +25,12 @@ You should start by rendering a single month view of a calendar for the current 
   changing title, description.
 - Ability to delete a reminder by selecting and hitting Backspace
 
-## Bonus (Pick 2 minimum)
+## Bonus
 
 - Dark / Bright mode switch
 - Ability move tasks on the calendar by drag and drop
-- Ability to pick the color from a palette of 6 colors (bespoke UI)
 - Expand the calendar to support more than the current month or year using the
   same scrolling mechanism as MacOS Calendar.
-- Enable reminders with start - end date spanning across several days.
 - Unit test the functionality: *Ability to add "*reminders*" (max. 30 characters) for a day and time specified by the user. Also, include a description.*
 
 ## Deliverables
